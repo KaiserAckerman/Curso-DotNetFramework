@@ -1,0 +1,7 @@
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csproj.AssemblyReference.cache
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
