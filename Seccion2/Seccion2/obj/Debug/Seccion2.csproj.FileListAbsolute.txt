@@ -1,0 +1,7 @@
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Seccion2\Seccion2\obj\Debug\Seccion2.pdb
