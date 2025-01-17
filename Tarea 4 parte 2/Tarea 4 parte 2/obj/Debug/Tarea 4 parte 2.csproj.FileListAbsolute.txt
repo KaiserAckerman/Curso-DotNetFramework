@@ -1,0 +1,7 @@
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\bin\Debug\Tarea 4 parte 2.exe.config
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\bin\Debug\Tarea 4 parte 2.exe
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\bin\Debug\Tarea 4 parte 2.pdb
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\obj\Debug\Tarea 4 parte 2.csproj.AssemblyReference.cache
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\obj\Debug\Tarea 4 parte 2.csproj.CoreCompileInputs.cache
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\obj\Debug\Tarea 4 parte 2.exe
+C:\Users\josab\OneDrive\Documentos\Github\Curso-DotNetFramework\Tarea 4 parte 2\Tarea 4 parte 2\obj\Debug\Tarea 4 parte 2.pdb
